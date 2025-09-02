@@ -89,7 +89,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajavamshiA&show_icons=true&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=Haripalepu&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=RajavamshiA&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
