@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/haripalepu/">
+  <a href="https://www.linkedin.com/in/rajavamshi-ankam">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@hareepalepu">
