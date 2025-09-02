@@ -65,7 +65,7 @@ security hardening, and performance through automation and infrastructure-as-cod
 
 ## ⚙️ Skills Showcase
 
-<p align="center">
+<p align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" alt="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="36" alt="Ansible"/>
