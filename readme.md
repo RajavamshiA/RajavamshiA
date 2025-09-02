@@ -13,11 +13,11 @@
   <a href="https://www.linkedin.com/in/rajavamshi-ankam">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@hareepalepu">
+  <a href="https://medium.com/@rajavamshiankam2019">
     <img src="https://img.shields.io/badge/Medium-Blogs-black?style=for-the-badge&logo=medium" alt="Medium Badge"/>
   </a>
-  <a href="mailto:harikpalepu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  <a href="mailto:rajavamshiankam2019@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rajavamshiankam2019@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
 
