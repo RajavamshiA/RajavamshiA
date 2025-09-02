@@ -56,10 +56,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ## 💼 Career Snapshot
 
-- 🏢 **JPMorgan Chase** – *Software Engineer II – SRE*  
-- 🏢 **Presidio** – *Senior DevOps Engineer*  
-- 🏢 **CGI** – *Systems Engineer*  
-- 🏢 **Avineon** – *GIS Engineer*  
+- 🏢 **WV Automation** – *DevOps Engineer*  
 
 ---
 
