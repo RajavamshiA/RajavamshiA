@@ -37,7 +37,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 - **Containers**: Docker, Kubernetes  
 - **Monitoring**: Prometheus, Grafana, Dynatrace, CloudWatch
 - **Scripting**: Bash, Shell, Python  
-- **Security**: IAM, RBAC, AWS Vault  
+- **Security**: IAM, RBAC
 - **Tools**: Nexus, SonarQube  
 - **SCM**: GitHub, Bitbucket  
 
@@ -45,8 +45,8 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ## 🔧 What I Do
 
-- 🛠️ Build and manage infrastructure on **AWS ** using **Terraform**  
-- 🚀 Design high-performance **CI/CD pipelines** using GitHub Actions, Azure DevOps, Jenkins, Jules  
+- 🛠️ Build and manage infrastructure on **AWS** using **Terraform**  
+- 🚀 Design high-performance **CI/CD pipelines** using GitHub Actions, Jenkins, Argo CD
 - ☁️ Operate internal services on **GAIA Private Cloud** using Kubernetes  
 - 🤖 Automate tasks using **Shell scripting**, **Python**, and **Linux tools**  
 - 📈 Monitor & optimize reliability with **Prometheus, Dynatrace, Splunk**  
