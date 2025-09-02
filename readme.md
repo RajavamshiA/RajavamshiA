@@ -110,22 +110,6 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 
 ---
 
-## 📞 Book a 1:1 Session
-
-👉 [**Topmate: Book 1:1 Mentoring / Career Chat**](https://topmate.io/hari_palepu)  
-*(Project Help • DevOps Guidance • Resume Review • Q&A)*
-
----
-
-## 🎮 Fun Facts
-
-- 🏍️ Passionate about motorbike rides  
-- ☕ Never says no to coffee  
-- 📚 Lifelong learner  
-- 🧘 Meditation believer  
-- 💡 Always up for tech discussions!
-
----
 
 Thanks for visiting! ✨  
 Let’s connect and grow together 💬
