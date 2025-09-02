@@ -50,7 +50,7 @@ security hardening, and performance through automation and infrastructure-as-cod
 
 - 🛠️ Build and manage infrastructure on **AWS** using **Terraform**  
 - 🚀 Design high-performance **CI/CD pipelines** using GitHub Actions, Jenkins, Argo CD
-- ☁️ Operate internal services on **AWS Cloud** using Kubernetes  
+- ☁️ Container Orchestration using **Kubernetes**  
 - 🤖 Automate tasks using **Shell scripting**, **Python**, and **Linux tools**  
 - 📈 Monitor & optimize reliability with **Prometheus, Grafana**  
 - 🔐 Secure environments with **RBAC**, **IAM**, and **Vaults**  
