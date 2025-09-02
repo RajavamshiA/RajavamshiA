@@ -105,7 +105,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haripalepu&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RajavamshiA&theme=onedark" />
 </p>
 
 ---
