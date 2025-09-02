@@ -6,13 +6,10 @@
 
 <p align="center">
   <b>DevOps Engineer @ WV Automation</b><br/>
-  🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor
+  🚀 DevOps • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform
 </p>
 
 <p align="center">
-  <a href="https://topmate.io/hari_palepu">
-    <img src="https://img.shields.io/badge/Topmate-Book%20a%201:1-brightgreen?style=for-the-badge&logo=meetup" alt="Topmate Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/haripalepu/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
