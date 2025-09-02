@@ -97,7 +97,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **5+ yea
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripalepu&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajavamshiA&layout=compact&theme=github_dark" />
 </p>
 
 ---
