@@ -34,8 +34,9 @@ security hardening, and performance through automation and infrastructure-as-cod
 ## 🧰 Tech Stack
 
 - **Cloud**: AWS, Azure
+- **OS**: Linux, Windows
 - **CI/CD**: AWS DevOps, GitHub Actions, Jenkins, Argo CD 
-- **IaC**: Terraform  
+- **IaC**: Terraform, Cloud Formation 
 - **Containers**: Docker, Kubernetes  
 - **Monitoring**: Prometheus, Grafana, Dynatrace, CloudWatch
 - **Scripting**: Bash, Shell, Python  
